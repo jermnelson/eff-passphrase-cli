@@ -1,7 +1,7 @@
 # EFF Dice CLI
 A command-line utility for generating passphrases based on the 
 Electronic Frontier Foundation [Dice-Generated Passphrases](https://www.eff.org/dice)
-dice method.
+method.
 
 ## Using
 1. Download or clone the repository.
