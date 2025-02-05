@@ -12,3 +12,6 @@ dice method.
    `--mixed True` which will the prompt you to specify the number of characters to 
    substitute numbers and symbols.
 1. New passphrase will be printed to the command-line.
+
+## Tests
+To run tests, `python3 tests.py`.
